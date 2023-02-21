@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hey, I'm Kevin 👋
+
+I'm a student and full-stack developer from Houston, TX. I also like to make music and DJ.
+
+Links:
+
+Website: https://personal-site-amgvu.vercel.app/
+Discord: amgvu#7035
+Soundcloud: https://soundcloud.com/user-581800726
+
+
+
 
 <!--
 **amgvu/amgvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
