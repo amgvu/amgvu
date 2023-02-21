@@ -8,5 +8,7 @@ Website: https://personal-site-amgvu.vercel.app/
 
 Soundcloud: https://soundcloud.com/user-581800726
 
+Youtube: https://www.youtube.com/channel/UCoqitvf9ipAlp5IR6ZvYukg
+
 Discord: amgvu#7035
 
