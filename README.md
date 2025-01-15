@@ -6,7 +6,6 @@
 - 💬 Ask me about peripherals
 - ⚡ Fun fact: I've been DJing for 10 years
 - 🐁 On My Desk: Wooting 60HE, Endgame Gear OP1w 4K, Artisan Key83 Soft
-- 📌 Houston, TX
 
 ## 🌟 Featured Projects
 <a href="https://github.com/amgvu/personal-site">
