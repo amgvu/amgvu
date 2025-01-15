@@ -1,16 +1,20 @@
-## Hi there 👋
+<img width="100%" src="https://i.imgur.com/sMcg1j2.jpeg" alt="Profile Banner">
 
-<!--
-**amgvu/amgvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Kevin 👋
+- 🔭 I’m currently working on ArcPanel
+- 🌱 I’m currently learning TypeScript, Backend Dev
+- 💬 Ask me about peripherals
+- ⚡ Fun fact: I am a DJ
+- 🐁 On My Desk: Wooting 60HE, Endgame Gear OP1w 4K, Artisan Key83 Soft
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+<a href="https://github.com/amgvu/personal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amgvu&repo=personal-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/amgvu/shopsentry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amgvu&repo=shopsentry&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kevin-vu-a8764b252/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://kevinvu.dev)
