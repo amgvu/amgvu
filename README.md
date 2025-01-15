@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ArcPanel (Discord Bot & Dashboard)
 - 🌱 I’m currently learning Backend Dev
 - 💬 Ask me about peripherals
-- ⚡ Fun fact: I am a DJ
+- ⚡ Fun fact: I've been DJing for 10 years
 - 🐁 On My Desk: Wooting 60HE, Endgame Gear OP1w 4K, Artisan Key83 Soft
 
 ## 🌟 Featured Projects
