@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amgvu&repo=shopsentry&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-## Github Stats
+## GitHub Stats
 <a href="https://github.com/amgvu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgvu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
 </a>
