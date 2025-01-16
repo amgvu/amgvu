@@ -1,7 +1,7 @@
 <img width="100%" src="https://i.imgur.com/sMcg1j2.jpeg" alt="Profile Banner">
 
 # Hi there, I'm Kevin 👋
-- 🔭 I’m currently working on ArcPanel (Discord Bot & Dashboard)
+- 🔭 I’m currently working on ArcForge (Discord Bot & Dashboard)
 - 🌱 I’m currently learning TypeScript and Backend Dev
 - 💬 Ask me about peripherals
 - ⚡ Fun fact: I've been DJing for 10 years
