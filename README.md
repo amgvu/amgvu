@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I've been DJing for 10 years
 - 🐁 On My Desk: Wooting 60HE, Endgame Gear OP1w 4K, Artisan Key83 Soft
 
+## 🎧Currently listening to:
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sootzz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=fafafa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌟 Featured Projects
