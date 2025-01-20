@@ -25,12 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amgvu&repo=arcforge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0f121b" />
 </a>
 
-## 📊 Stats
-
-<a href="https://github.com/amgvu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgvu&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0f121b" alt="Top Languages" />
-</a>
-
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kevin-vu-a8764b252/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://kevinvu.dev)
