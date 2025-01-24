@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TypeScript and Backend Dev
 - 💬 Ask me about peripherals
 - ⚡ Fun fact: I've been DJing for 10 years
-- 🐁 On my desk: Wooting 60HE, Lamzu Maya X, Wallhack SP-004
+- 🐁 On my desk: Wobkey Rainy75 RT, Pulsar X3, Artisan Key-83 Soft
 
 ## 🎧 Currently listening to:
 
