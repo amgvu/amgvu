@@ -2,10 +2,9 @@
 
 # Hi there, I'm Kevin 👋
 - 🔭 I’m currently working on Project Arcs (Discord App)
-- 🌱 I’m currently learning TypeScript and Go
 - 💬 Ask me about peripherals
 - ⚡ Fun fact: I've been DJing for 10 years
-- 🐁 On my desk: Wobkey Rainy 75 RT, Pulsar X3, Artisan Key-83 Soft
+- 🐁 On my desk: Wobkey Rainy 75 RT, Lamzu Maya X, Artisan Key-83 Soft
 
 ## 🎧 Currently listening to:
 
