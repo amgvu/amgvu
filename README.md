@@ -3,7 +3,6 @@
 # Hi there, I'm Kevin 👋
 - 🔭 I’m currently working on Project Arcs (Discord App)
 - 💬 Ask me about peripherals
-- ⚡ Fun fact: I've been DJing for 10 years
 - 🐁 On my desk: Wobkey Rainy 75 RT, Lamzu Maya X, Artisan Key-83 Soft
 
 ## 🎧 Currently listening to:
