@@ -1,7 +1,7 @@
 <img width="100%" src="https://i.imgur.com/sMcg1j2.jpeg" alt="Profile Banner">
 
 # Hi there, I'm Kevin 👋
-- 🔭 I’m currently working on Project Arcs (Discord App) & LeetCode
+- 🔭 I’m currently working on Arclify & LeetCode
 - 💬 Ask me about techno
 - 🐁 On my desk: Wobkey Rainy 75 RT, Pulsar X2 CrazyLight, Artisan Key-83 Soft
 
