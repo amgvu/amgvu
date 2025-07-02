@@ -1,7 +1,7 @@
 <img width="100%" src="https://i.imgur.com/sMcg1j2.jpeg" alt="Profile Banner">
 
 # Hi there, I'm Kevin 👋
-- 🔭 I’m currently working on Arclify
+- 🔭 I’m currently working on shipping Arclify
 - 💬 Ask me about techno
 - 🐁 On my desk: Wobkey Rainy 75 RT, Lamzu Maya X, Skypad 4.0
 
