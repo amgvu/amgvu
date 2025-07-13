@@ -1,9 +1,9 @@
 <img width="100%" src="https://i.imgur.com/sMcg1j2.jpeg" alt="Profile Banner"/>
 
 # Hi, I'm Kevin Vu 👋
-- 🔭 I’m currently working on shipping `Alias`
-- 💬 Ask me about `techno`
-- 🐁 On my desk: `Wobkey Rainy 75 RT`, `Lamzu Maya X`, `Skypad 4.0`
+- 🔭 I’m currently working on shipping Alias
+- 💬 Ask me about techno
+- 🐁 On my desk: Wobkey Rainy 75 RT, Lamzu Maya X, Skypad 4.0
 
 ## 🎧 Recently Played:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sootzz)
