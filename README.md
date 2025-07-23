@@ -5,9 +5,6 @@
 - 💬 Ask me about techno
 - 🐁 On my desk: Wobkey Rainy 75 RT, Lamzu Maya X, Skypad 4.0
 
-## 🎧 Recently Played:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sootzz)
-
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgvu&layout=compact&theme=rose_pine)
 
